@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\",
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|c:\\users\\lab_services_student\\desktop\\st10433945_prog6221_poe_part1\\cybersecuritychatbot\\responsehandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|solutionrelative:responsehandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|solutionrelative:utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|solutionrelative:audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|solutionrelative:chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\asciiart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\asciiart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|solutionrelative:asciiart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|solutionrelative:chatbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|solutionrelative:audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|c:\\users\\lab_services_student\\desktop\\prog6221_poe_part1\\cybersecuritychatbot\\responsehandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|solutionrelative:responsehandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1676B469-2B36-4308-8A14-E034FBE7BD53}|CyberSecurityChatBot.csproj|solutionrelative:utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Utils.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\Utils.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\Utils.cs",
               "RelativeDocumentMoniker": "Utils.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\Utils.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\Utils.cs",
               "RelativeToolTip": "Utils.cs",
               "ViewState": "AgIAAHsAAADQ/v///38kwIYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -50,64 +50,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ResponseHandlers.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\ResponseHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\ResponseHandlers.cs",
               "RelativeDocumentMoniker": "ResponseHandlers.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\ResponseHandlers.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\ResponseHandlers.cs",
               "RelativeToolTip": "ResponseHandlers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAZmZmZmYjwDgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T12:40:34.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AudioPlayer.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\AudioPlayer.cs",
-              "RelativeDocumentMoniker": "AudioPlayer.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\AudioPlayer.cs",
-              "RelativeToolTip": "AudioPlayer.cs",
-              "ViewState": "AgIAABcAAACAmpmZmRkUwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T12:17:59.032Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "AudioPlayer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\AudioPlayer.cs",
+              "RelativeToolTip": "AudioPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:17:59.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Chatbot.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\Chatbot.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\Chatbot.cs",
               "RelativeDocumentMoniker": "Chatbot.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\Chatbot.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\Chatbot.cs",
               "RelativeToolTip": "Chatbot.cs",
-              "ViewState": "AgIAAHYAAADAY2ZmZiYvwGwAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T12:16:47.04Z"
+              "WhenOpened": "2025-03-24T12:16:47.04Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ASCIIArt.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\ASCIIArt.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\ASCIIArt.cs",
               "RelativeDocumentMoniker": "ASCIIArt.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\ASCIIArt.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\ASCIIArt.cs",
               "RelativeToolTip": "ASCIIArt.cs",
-              "ViewState": "AgIAAEQAAABgBgAAAAAewE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T12:16:26.8Z"
+              "WhenOpened": "2025-03-24T12:16:26.8Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\ST10433945_PROG6221_POE_PART1\\CyberSecurityChatBot\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6221_POE_Part1\\CyberSecurityChatBot\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T12:09:59.873Z"
+              "WhenOpened": "2025-03-24T12:09:59.873Z",
+              "EditorCaption": ""
             }
           ]
         }
