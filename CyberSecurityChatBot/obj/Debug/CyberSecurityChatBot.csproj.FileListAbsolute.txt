@@ -1,0 +1,8 @@
+C:\Users\lab_services_student\Desktop\ST10433945_PROG6221_POE_PART1\CyberSecurityChatBot\bin\Debug\Assets\greeting.wav
+C:\Users\lab_services_student\Desktop\ST10433945_PROG6221_POE_PART1\CyberSecurityChatBot\bin\Debug\CyberSecurityChatBot.exe.config
+C:\Users\lab_services_student\Desktop\ST10433945_PROG6221_POE_PART1\CyberSecurityChatBot\bin\Debug\CyberSecurityChatBot.exe
+C:\Users\lab_services_student\Desktop\ST10433945_PROG6221_POE_PART1\CyberSecurityChatBot\bin\Debug\CyberSecurityChatBot.pdb
+C:\Users\lab_services_student\Desktop\ST10433945_PROG6221_POE_PART1\CyberSecurityChatBot\obj\Debug\CyberSecurityChatBot.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\ST10433945_PROG6221_POE_PART1\CyberSecurityChatBot\obj\Debug\CyberSecurityChatBot.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\ST10433945_PROG6221_POE_PART1\CyberSecurityChatBot\obj\Debug\CyberSecurityChatBot.exe
+C:\Users\lab_services_student\Desktop\ST10433945_PROG6221_POE_PART1\CyberSecurityChatBot\obj\Debug\CyberSecurityChatBot.pdb
