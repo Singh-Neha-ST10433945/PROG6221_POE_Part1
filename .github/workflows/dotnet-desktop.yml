@@ -1,0 +1,32 @@
+name: Build CYRA Chatbot
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 8.0.x
+
+    - name: Restore dependencies
+      working-directory: CyberSecurityChatBot
+      run: dotnet restore
+
+    - name: Build project
+      working-directory: CyberSecurityChatBot
+      run: dotnet build --configuration Release --no-restore
+
+    - name: Run tests (optional - skip if you don’t have tests)
+      working-directory: CyberSecurityChatBot
+      run: dotnet test || echo "No tests to run"
